@@ -1,6 +1,5 @@
 # Predicating-flightroute-between-cities-in-PROLOG
-In the graph below you see the possible flights between some of the cities in Turkey. Write
-the predicate “route(X,Y,C) – a route between X and Y exists with cost C” that checks if there is a
+Write the predicate “route(X,Y,C) – a route between X and Y exists with cost C” that checks if there is a
 route between any given two cities. 
 Your Prolog program should have all the facts and predicates/rules. See the following:
 % knowledge base
